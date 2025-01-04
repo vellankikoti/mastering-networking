@@ -152,6 +152,8 @@ A user reports slow internet on their laptop. Using Wireshark:
 2. Its filtering and decoding capabilities make it invaluable for troubleshooting.
 3. By mastering Wireshark, you can diagnose and solve network issues efficiently.
 
+
 With Wireshark, you’ve unlocked the ability to visualize and troubleshoot real-world network traffic. Continue to the **Traceroute** file to explore another powerful networking tool!
+
 ---
 
