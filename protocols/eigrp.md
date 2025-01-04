@@ -169,7 +169,6 @@ EIGRP ensures:
 3. Mastering EIGRP enhances your ability to manage enterprise networks.
 
 Continue to the next file to explore **OSPF**, another powerful routing protocol!
-```
 
 ---
 
