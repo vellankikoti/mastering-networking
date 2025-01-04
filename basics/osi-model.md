@@ -122,5 +122,3 @@ Below is a simplified diagram showing the flow of data through the OSI layers:
 
 ---
 
-This enhanced content is designed to leave learners with a sense of mastery and satisfaction, making networking concepts both accessible and memorable. Let me know if you'd like diagrams generated or if you'd like me to proceed with the next topic!
-
